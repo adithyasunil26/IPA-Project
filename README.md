@@ -31,14 +31,12 @@ to get the above mentioned marks.
 The design approach should be modular, i.e., each stage has to be coded as separate modules and tested independently
 in order to help the integration without too many issues.
 
-In tutorial sessions, the TAs will discuss with you how to implement the memory block, which can be used in the
-design.
 
 ## 4.Targets and Evaluation
 
-Each group will be evaluated twice during the project - firstly on Feb 15 to understand your progress and give you feedback based on it. (Marks-10)
+Each group will be evaluated twice during the project - firstly on Feb 20. (Marks-10)
 
-The final evaluation will happen in the 1st or 2nd week of March (dates will be announced later).
+The final evaluation will happen in the 1st week of March (dates will be announced later).
 
 ## 5.Suggestions for Design Verification
 
