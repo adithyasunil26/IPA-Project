@@ -1,4 +1,4 @@
-# Intro to Processor Architecture - Project (Spring 2022)
+# Intro to Processor Architecture - Project (Spring 2023)
 
 ## 1.Overall Goal (Total Marks - 100)
 
